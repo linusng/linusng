@@ -1,1 +1,1 @@
-# Hi I'm Linus Ng and I'm into all things Data !
+# Hi I'm Linus and I'm into all things Data !
